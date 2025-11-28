@@ -8,7 +8,6 @@ Ce dépôt contient le travail du TP2 demandé :
 - Rapport simplifié  
 - Dépôt nommé correctement  
 
----
 
 ##  1. Application Android – Preuve de compilation réussie
 
@@ -19,7 +18,6 @@ Voici la capture de l’interface Android Studio :
 ![Android Studio 2](images/dev4.JPG)
 ![Android Studio 3](images/dev5.JPG)
 
----
 
 ##  2. Workflow GitHub Actions
 
@@ -36,7 +34,6 @@ Voici les captures des workflows exécutés avec succès :
 ![Workflow Success 1](images/devops1.JPG)
 ![Workflow Success 2](images/devops2.JPG)
 
----
 
 ## 3. Pull Request & Branches
 
@@ -44,7 +41,6 @@ Une branche **feature-tests** a été créée pour modifier l'interface.
 Ensuite, une Pull Request a été créée et mergée dans `master`,  
 ce qui a déclenché le workflow automatiquement.
 
----
 
 ## 4. Mini Rapport du TP
 
@@ -71,7 +67,7 @@ Le projet compile sans problème,
 les workflows CI fonctionnent parfaitement,  
 et toutes les captures sont intégrées dans ce README.
 
----
+
 
 
 
