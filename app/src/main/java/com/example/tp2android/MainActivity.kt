@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             TP2AndroidTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "TP2",
+                        name = "Github Actions",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
