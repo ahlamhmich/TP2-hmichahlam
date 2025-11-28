@@ -73,10 +73,5 @@ et toutes les captures sont intégrées dans ce README.
 
 ---
 
-## 5. Lien Classroom
-Une fois validé, le lien du dépôt GitHub sera envoyé sur Google Classroom.
-
----
-
 
 
